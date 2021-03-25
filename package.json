@@ -1,5 +1,5 @@
 {
-  "name": "@linuxfoundation-it/hello.io",
+  "name": "@linuxfoundation-it/ci-sample-node",
   "version": "1.0.0",
   "description": "Creating a hello-world Node Package.",
   "main": "index.js",
