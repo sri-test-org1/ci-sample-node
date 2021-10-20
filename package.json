@@ -1,5 +1,5 @@
 {
-  "name": "@linuxfoundation-it/ci-sample-node",
+  "name": "ci-sample-node",
   "version": "1.0.0",
   "description": "Creating a hello-world Node Package.",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:linuxfoundation-it/ci-sample-node.git"
+    "url": "git@github.com:sri-test-org1/ci-sample-node.git"
   }
 }
